@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-chronjob",
+  "version": "1.0.0",
+  "description": "NodeJs Rest API with chroneJob",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Anene",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.4",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.0.0"
+  }
+}
